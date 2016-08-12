@@ -9,7 +9,7 @@ Buster!!! from the Block Breaker section of the Udemy "Unity" course: https://ww
 
 * long play loop (7 songs adjoined), win/lose sounds, 7 levels, demo mode (autoplay) activates automatically after 10 seconds on start screen (just click mouse to return to start screen to play for real). I've never made it past level 2 myself....
 
-* Gamebucket: http://gamebucket.io/game/6022b86f-ef98-4f7e-9fc3-8df0612db49e1 (for next 30 days)
+* Gamebucket: http://gamebucket.io/game/6022b86f-ef98-4f7e-9fc3-8df0612db49e (for next 30 days)
 
 * Itch.io: https://tdvance.itch.io/buster
 
