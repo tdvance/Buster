@@ -1,0 +1,7 @@
+﻿1>------ Build started: Project: Buster.CSharp, Configuration: Debug Any CPU ------
+1>  Buster.CSharp -> D:\Documents\Repos\Udemy Unity Course\Buster\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+2>------ Build started: Project: Buster.CSharp.Editor, Configuration: Debug Any CPU ------
+2>D:\Documents\Repos\Udemy Unity Course\Buster\Assets\Editor\ImageEffects\CameraMotionBlurEditor.cs(24,28,24,45): warning CS0169: The field 'CameraMotionBlurEditor.showVelocityScale' is never used
+2>D:\Documents\Repos\Udemy Unity Course\Buster\Assets\Editor\ImageEffects\CameraMotionBlurEditor.cs(23,28,23,40): warning CS0169: The field 'CameraMotionBlurEditor.showVelocity' is never used
+2>  Buster.CSharp.Editor -> D:\Documents\Repos\Udemy Unity Course\Buster\Temp\UnityVS_bin\Debug\Assembly-CSharp-Editor.dll
+========== Build: 2 succeeded, 0 failed, 1 up-to-date, 0 skipped ==========
